@@ -1,0 +1,38 @@
+[
+  {
+    "name": "iphone",
+    "price": "45",
+    "featured": "true",
+    "company": "apple"
+  },
+  {
+    "name": "iphone11",
+    "price": "76",
+    "featured": "false",
+    "company": "mi"
+  },
+  {
+    "name": "iphone12",
+    "price": "5616",
+    "featured": "true",
+    "company": "samsung"
+  },
+  {
+    "name": "iphone13",
+    "price": "9875",
+    "featured": "false",
+    "company": "apple"
+  },
+  {
+    "name": "iphone16",
+    "price": "2132",
+    "featured": "false",
+    "company": "samsung"
+  },
+  {
+    "name": "iphone85",
+    "price": "759",
+    "featured": "false",
+    "company": "mi"
+  }
+]
